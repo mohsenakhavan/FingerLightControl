@@ -66,7 +66,7 @@ This project captures hand gestures using a camera, processes the image to count
 2. **اجرای اسکریپت پایتون:** برنامه پایتون را اجرا کنید که ویدئوی دوربین را باز کرده و انگشتان را شناسایی می‌کند. بر اساس تعداد انگشتان شناسایی شده، آردوینو دستگاه متصل را کنترل خواهد کرد.
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1025776604275814451/1273735013183262730/20240815_232016.jpg?ex=66bfb1ab&is=66be602b&hm=d4a01918996e5a2e7365910352ebdeae0908a8873c8e07aa9b46818eee84a154&" align="center" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/c1554a9c-3370-4807-89b2-7502074b90b4" align="center" style="width: 100%" />
 </div>  
 ---
 
